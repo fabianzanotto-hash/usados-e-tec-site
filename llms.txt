@@ -1,0 +1,22 @@
+# Usados e Tec
+
+> Loja de peças de informática, memórias e equipamentos de rede usados, em Porto Alegre (RS). Somente envio. A compra é feita pela OLX ou pelo Mercado Livre, pelos links de cada produto.
+
+## Produtos
+
+- [Conjunto Memória RAM G.Skill Ripjaws X 16GB (4x4GB) DDR3 1866MHz](https://usadosetec.com.br/produto/memoria-gskill-ripjaws-x-16gb-4x4gb-ddr3-1866.html): R$ 350, usado
+- [Memória RAM 8GB DDR3 1600MHz Kingston HyperX Fury Black 2x4GB Desktop](https://usadosetec.com.br/produto/hyperx-fury-preta-2x4gb.html): R$ 140, usado
+- [Memória RAM 8GB DDR3 1600MHz Kingston HyperX Fury Blue 2x4GB Desktop](https://usadosetec.com.br/produto/hyperx-fury-azul-2x4gb.html): R$ 140, usado
+- [Memória RAM 8GB DDR3L 1600MHz ECC Unbuffered UDIMM Servidor Kingston](https://usadosetec.com.br/produto/kingston-ecc-8gb-ktd-pe316elv.html): R$ 180, usado
+- [HD 1TB Seagate Constellation ES.3 SATA 7200RPM Servidor Dell ST1000NM0033 com Gaveta](https://usadosetec.com.br/produto/hd-seagate-constellation-es3-1tb.html): R$ 200, usado
+- [Controladora RAID Dell PERC H200 SAS 6Gb 8 Portas PCIe x8 Servidor HBA](https://usadosetec.com.br/produto/controladora-dell-perc-h200.html): R$ 280, usado
+- [Dissipador Dell PowerEdge T110 com parafusos](https://usadosetec.com.br/produto/dissipador-dell-poweredge-t110.html): R$ 80, usado
+- [Fonte Dell 305W PowerEdge T110 T110 II 80 Plus Bronze Servidor L305E-S0 0J33F2](https://usadosetec.com.br/produto/fonte-dell-l305e-s0.html): R$ 350, usado
+- [Kit Ventoinha com Suporte e Duto de Ar Dell PowerEdge T110](https://usadosetec.com.br/produto/kit-ventoinha-duto-dell-poweredge-t110.html): R$ 200, usado
+- [Dissipador Cooler CPU HP Compaq 6200 6300 8200 8300 Elite SFF LGA1155](https://usadosetec.com.br/produto/dissipador-hp-628553-001.html): R$ 60, usado
+- [Firewall Cisco ASA 5505](https://usadosetec.com.br/produto/firewall-cisco-asa-5505.html): R$ 340, usado
+- [Switch Cisco SF200-24 24 portas](https://usadosetec.com.br/produto/switch-cisco-sf200-24.html): R$ 370, usado
+
+## Contato
+
+- E-mail: usadosetec@gmail.com
